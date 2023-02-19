@@ -3,10 +3,283 @@
     <title>Dokumentation</title>
     <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-02-19T22:41:03+01:00</updated>
     <author>
         <name>Matthias Ulpmer, Ivan Bacher</name>
     </author>
     <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages</id>
 
+    <entry>
+        <title>Das Repo mit Publii verknüpfen</title>
+        <author>
+            <name>Matthias Ulpmer, Ivan Bacher</name>
+        </author>
+        <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/das-repo-mit-publii-verknuepfen.html"/>
+        <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/das-repo-mit-publii-verknuepfen.html</id>
+
+        <updated>2023-02-19T22:41:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Folgende Informationen müssen angegeben werden: Sobald alle Optionen eingestellt sind,die Änderungen speichern und anschließend auf Verbindung testen drücken, um zu prüfen, ob Publii eine Verbindung zu Ihrer Github-Seite herstellen kann. Anschließend klickt man “Sync your website”, um die Webseite hochzuladen. WICHTIG! Die hochgeladene Publii-Website ist&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Folgende Informationen müssen angegeben werden:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Website Url</strong><span style="font-weight: 400;"> - Dies ist der Pfad zum Github-Repository</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>API-Server</strong><span style="font-weight: 400;"> - Standardmäßig ist dieses Feld bereits mit dem Standard-API-Server ausgefüllt, dies kann man so belassen</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Username / Organization</strong><span style="font-weight: 400;"> - Github-Benutzernamen eingeben.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Repository </strong><span style="font-weight: 400;">- Geben Sie hier den Namen Ihres Github-Repositories ein (in unserem Fall gh-pages).</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Branch </strong><span style="font-weight: 400;">- In unserem Fall ist der namen des Branches “main”.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Token </strong><span style="font-weight: 400;">- Den zuvor erstellten Token einfügen</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Parallele Uploads</strong><span style="font-weight: 400;"> - Der Standardwert ist '1'. Legt die Anzahl der Upload-Streams fest, die Publii beim Hochladen der Inhalte der Website auf GitHub Pages verwenden kann. Höhere Zahlen ermöglichen schnellere Uploads, können aber bei langsamen Verbindungen zu Fehlern führen oder einen Fehler 403 aufgrund von API-Upload-Ratenbeschränkungen verursachen.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>API-Ratenbegrenzung</strong><span style="font-weight: 400;"> - Diese Option nur deaktivieren, wenn man Github Enterprise mit deaktivierter API-Ratenbegrenzung verwendet. Andernfalls kann die Deaktivierung dieser Option zur Bereitstellung Fehlern führen.</span></li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/Screenshot-2023-02-19-223408.png" alt="Einstellungen" width="653" height="798" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223408-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223408-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223408-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223408-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223408-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223408-2xl.png 1600w"><figcaption>Einstellungen</figcaption></figure>
+<p><span style="font-weight: 400;">Sobald alle Optionen eingestellt sind,die Änderungen speichern und anschließend auf Verbindung testen drücken, um zu prüfen, ob Publii eine Verbindung zu Ihrer Github-Seite herstellen kann.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/Screenshot-2023-02-19-223622-2.png" alt="Verbindung testen" width="743" height="326" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223622-2-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223622-2-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223622-2-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223622-2-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223622-2-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223622-2-2xl.png 1600w"><figcaption>Verbindung testen                        </figcaption></figure>
+<p><span style="font-weight: 400;">Anschließend klickt man “Sync your website”, um die Webseite hochzuladen.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/Screenshot-2023-02-19-223934.png" alt="Webseite hochladen" width="778" height="227" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223934-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223934-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223934-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223934-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223934-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/10/responsive/Screenshot-2023-02-19-223934-2xl.png 1600w"><figcaption>Webseite hochladen</figcaption></figure>
+<p class="msg msg--highlight "><strong>WICHTIG! </strong><span style="font-weight: 400;">Die hochgeladene Publii-Website ist möglicherweise nicht sofort sichtbar, wenn der Synchronisierungsprozess abgeschlossen ist. Es kann ca. 1 Minute dauern, bis die Änderungen auf Ihrer Website sichtbar sind.</span></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Seite auf GitHub erstellen</title>
+        <author>
+            <name>Matthias Ulpmer, Ivan Bacher</name>
+        </author>
+        <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/seite-auf-github-erstellen.html"/>
+        <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/seite-auf-github-erstellen.html</id>
+            <category term="Publii Seite veröffentlichen"/>
+
+        <updated>2023-02-19T22:31:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                    1) Token erstellen Um eine Seite auf GitHub zu erstellen, muss man zunächst ein sog. “Zugangs-Token” erstellen. Damit kann Publii auf die Github-Seite zugreifen und Änderungen vornehmen, so dass es die Website erstellen und bearbeiten kann, sobald man in der Publii-App auf den Sync-Button klickt.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3><span style="font-weight: 400;">1) Token erstellen</span></h3>
+<p><span style="font-weight: 400;">Um eine Seite auf GitHub zu erstellen, muss man zunächst ein sog. “Zugangs-Token” erstellen. Damit kann Publii auf die Github-Seite zugreifen und Änderungen vornehmen, so dass es die Website erstellen und bearbeiten kann, sobald man in der Publii-App auf den Sync-Button klickt.</span></p>
+<p><strong>Anleitung:</strong></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Zunächst meldet man sich bei GitHub an und klickt auf die Profil-Einstellungen.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Anschließend scrollt man ganz hinunter und klickt auf Developer settings</span></li>
+<li aria-level="1"><span style="font-weight: 400;">Danach klickt man auf  “Personal Access tokens” → “Tokens (classic)”</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Dann klickt man auf “Generate new token” und danach auf “Generate new token (classic)”</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Als Nächstes gibt man einen Namen, wie z.B. "Publii GitHub Page" ein. Im Abschnitt "Select scopes"  muss man ein Häkchen bei der Option "repo" setzen. Zudem kann man auch ein Ablaufdatum für das Token festlegen, z. B. "90 Tage". (Den Rest belässt man beim Standard). Anschließend generiert man das Token.</span></li>
+</ol>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-215841.png" data-size="693x567"><img loading="lazy" src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-215841-thumbnail.png" alt="1) GitHub Profil Einstellungen" width="693" height="567"></a>
+<figcaption>1) GitHub Profil Einstellungen</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-220128.png" data-size="631x585"><img loading="lazy" src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-220128-thumbnail.png" alt="2) Developer Settings" width="631" height="585"></a>
+<figcaption>2) Developer Settings</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-220337-2.png" data-size="603x307"><img loading="lazy" src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-220337-2-thumbnail.png" alt="3) Token erstellen" width="603" height="307"></a>
+<figcaption>3) Token erstellen</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-220527.png" data-size="742x153"><img loading="lazy" src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-220527-thumbnail.png" alt="4) Neuen Token erstellen" width="720" height="148"></a>
+<figcaption>4) Neuen Token erstellen</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-220629.png" data-size="632x480"><img loading="lazy" src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-220629-thumbnail.png" alt="5) Token Einstellungen" width="632" height="480"></a>
+<figcaption>5) Token Einstellungen</figcaption>
+</figure>
+</div></div>
+<p> </p>
+<p><strong>Generiertes Token:</strong></p>
+<figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/Screenshot-2023-02-19-221937.png" alt="Generiertes Token" width="811" height="302" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/responsive/Screenshot-2023-02-19-221937-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/responsive/Screenshot-2023-02-19-221937-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/responsive/Screenshot-2023-02-19-221937-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/responsive/Screenshot-2023-02-19-221937-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/responsive/Screenshot-2023-02-19-221937-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/responsive/Screenshot-2023-02-19-221937-2xl.png 1600w"><figcaption>Generiertes Token</figcaption></figure>
+<p class="msg msg--highlight "><strong>Wichtig</strong><span style="font-weight: 400;">: Das Token kopieren/speichern, denn danach kann man es nicht mehr ansehen.</span></p>
+<h3><span style="font-weight: 400;">2) Repo für die Webseite erstellen</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Man klickt auf seine Repositories → Neues Repository erstellen. Anschließend gibt man einen Namen ein, lässt das Repo auf öffentlich und erstellt dieses. (Man wählt keine zusätzliche Option aus)</span></li>
+<li aria-level="1"><span style="font-weight: 400;">Anschließend auf den Link README klicken und diese (ohne Änderungen) committen.</span></li>
+<li aria-level="1"><span style="font-weight: 400;">Anschließend wechselt man auf den Reiter Einstellungen → Pages und setzt dort den Branch auf “main”.</span></li>
+<li aria-level="1"><span style="font-weight: 400;">Wenn man nun die Seite neu lädt und die Seite angezeigt wird, ist die Einrichtung abgeschlossen.</span></li>
+</ol>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-222352-2.png" data-size="767x641"><img loading="lazy" src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-222352-2-thumbnail.png" alt="1) Repo-Einstellungen" width="720" height="602"></a>
+<figcaption>1) Repo-Einstellungen</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-222415-2.png" data-size="932x617"><img loading="lazy" src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-222415-2-thumbnail.png" alt="2) Commit" width="720" height="477"></a>
+<figcaption>2) Commit</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-222434-2.png" data-size="891x470"><img loading="lazy" src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-222434-2-thumbnail.png" alt="3) Branch auf main setzen" width="720" height="380"></a>
+<figcaption>3) Branch auf main setzten</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-222452.png" data-size="837x546"><img loading="lazy" src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/9/gallery/Screenshot-2023-02-19-222452-thumbnail.png" alt="4) Einrichtung abgeschlossen" width="720" height="470"></a>
+<figcaption>4) Einrichtung abgeschlossen</figcaption>
+</figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Publii Seite veröffentlichen</title>
+        <author>
+            <name>Matthias Ulpmer, Ivan Bacher</name>
+        </author>
+        <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/publii-seite-veroeffentlichen.html"/>
+        <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/publii-seite-veroeffentlichen.html</id>
+            <category term="Publii Seite veröffentlichen"/>
+
+        <updated>2023-02-19T21:48:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Publii unterstützt viele verschiedene Arten, die Webseite zu veröffentlichen. Dazu wechselt man einfach auf den Reiter Server und wählt dann die gewünschte Methode aus.</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Publii unterstützt viele verschiedene Arten, die Webseite zu veröffentlichen. Dazu wechselt man einfach auf den Reiter Server und wählt dann die gewünschte Methode aus.</span></p>
+
+<figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/Screenshot-2023-02-19-214735.png" alt="Server aussuchen" width="1172" height="608" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-2xl.png 1600w"><figcaption>Server aussuchen</figcaption></figure>
+<p><span style="font-weight: 400;">Wir haben uns dazu entschieden, diese Seite auf GitHub zu veröffentlichen.</span></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Füllen der Webseite mit Daten</title>
+        <author>
+            <name>Matthias Ulpmer, Ivan Bacher</name>
+        </author>
+        <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/fuellen-der-webseite-mit-daten.html"/>
+        <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/fuellen-der-webseite-mit-daten.html</id>
+            <category term="Gestaltung der Webseite"/>
+
+        <updated>2023-02-19T21:51:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">Informationen auf der Webseite anzuzeigen ist bei Publii auch sehr einfach, dazu klickt man einfach auf “Add New post”. (Wir haben die erste Option als Editor verwendet).</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Informationen auf der Webseite anzuzeigen ist bei Publii auch sehr einfach, dazu klickt man einfach auf “Add New post”. (Wir haben die erste Option als Editor verwendet).</span></p>
+
+<figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/Screenshot-2023-02-19-213344.png" alt="Neuen Post erstellen" width="1187" height="457" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-2xl.png 1600w"><figcaption>Neuen Post erstellen</figcaption></figure>
+<p><span style="font-weight: 400;">Im Editor kann man verschiedene Einstellungen vornehmen wie zum Beispiel:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Text als fett/kursiv/unterstrichen usw. markieren.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Links und Bilder einfügen</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Text als Warnung oder als Information markieren</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">“Read more” einfügen</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Verschiedene Überschriften anzeigen lassen usw. (hier ist der Kreativität freien lauf gesetzt)</span></li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/Screenshot-2023-02-19-213546.png" alt="Text-Formatierungs-Optionen" width="1098" height="493" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213546-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213546-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213546-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213546-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213546-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213546-2xl.png 1600w"><figcaption>Text-Formatierungs-Optionen</figcaption></figure>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Anpassen der Hauptbereiche der Webseite</title>
+        <author>
+            <name>Matthias Ulpmer, Ivan Bacher</name>
+        </author>
+        <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/anpassen-von-den-hauptbereichen-der-webseite.html"/>
+        <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/anpassen-von-den-hauptbereichen-der-webseite.html</id>
+            <category term="Gestaltung der Webseite"/>
+
+        <updated>2023-02-19T21:40:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Unter Themes → Custom Settings kann man Hauptbereiche wie z.B. die Hero-Sektion anpassen. Zudem hat man die Möglichkeit viele weiter Einstellungen zu ändern wie z.B. die Farben, das Layout usw.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Unter Themes → Custom Settings kann man Hauptbereiche wie z.B. die Hero-Sektion anpassen. Zudem hat man die Möglichkeit viele weiter Einstellungen zu ändern wie z.B. die Farben, das Layout usw.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/6/Screenshot-2023-02-19-212247.png" alt="Design-Einstellungen der Webseite" width="1235" height="799" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/6/responsive/Screenshot-2023-02-19-212247-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/6/responsive/Screenshot-2023-02-19-212247-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/6/responsive/Screenshot-2023-02-19-212247-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/6/responsive/Screenshot-2023-02-19-212247-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/6/responsive/Screenshot-2023-02-19-212247-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/6/responsive/Screenshot-2023-02-19-212247-2xl.png 1600w"><figcaption>Design-Einstellungen der Webseite</figcaption></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Auswählen eines Themes</title>
+        <author>
+            <name>Matthias Ulpmer, Ivan Bacher</name>
+        </author>
+        <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/auswaehlen-eines-themes.html"/>
+        <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/auswaehlen-eines-themes.html</id>
+        <media:content url="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/Download.png" medium="image" />
+            <category term="Gestaltung der Webseite"/>
+
+        <updated>2023-02-19T21:20:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/Download.png" alt="" />
+                    Publii bietet bereits Themes an, die man als Basis für seine Seite auswählen kann. Dazu klickt man auf Themes → Menü (oben rechts) → Themes. Dort kann man ein Theme zuerst unter folgendem Link downloaden und den ZIP-Ordner per “drag- and drop” hineinziehen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/Download.png" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">Publii bietet bereits Themes an, die man als Basis für seine Seite auswählen kann. </span><span style="font-weight: 400;">Dazu klickt man auf Themes → Menü (oben rechts) → Themes.</span></p>
+<p><span style="font-weight: 400;"> Dort kann man ein Theme zuerst unter folgendem <a href="https://marketplace.getpublii.com/themes/" target="_blank" rel="noopener noreferrer">Link </a>downloaden </span><span style="font-weight: 400;">und den ZIP-Ordner per “drag- and drop” hineinziehen.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/Screenshot-2023-02-19-211955.png" alt="Auswählen eines Themes" width="1741" height="627" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-2xl.png 1600w"><figcaption>Auswählen eines Themes</figcaption></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Erstellung einer Webseite</title>
+        <author>
+            <name>Matthias Ulpmer, Ivan Bacher</name>
+        </author>
+        <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/erstellung-einer-webseite.html"/>
+        <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/erstellung-einer-webseite.html</id>
+        <media:content url="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/4/Download.png" medium="image" />
+            <category term="Erstellung einer Webseite"/>
+
+        <updated>2023-02-19T21:05:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/4/Download.png" alt="" />
+                    Die Erstellung der Webseite mit Publii ist sehr einfach: Man gibt den Namen und die Autoren der Seite an, wählt ein Icon aus und klickt auf Seite erstellen → Fertig.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/4/Download.png" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">Die Erstellung der Webseite mit Publii ist sehr einfach: Man gibt den Namen und die Autoren der Seite an, wählt ein Icon aus und klickt auf Seite erstellen → Fertig.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/4/Bild1.png" alt="Erstellung einer Webseite" width="743" height="537" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/4/responsive/Bild1-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/4/responsive/Bild1-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/4/responsive/Bild1-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/4/responsive/Bild1-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/4/responsive/Bild1-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/4/responsive/Bild1-2xl.png 1600w"><figcaption>Erstellung einer Webseite</figcaption></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Generelles über Publii</title>
+        <author>
+            <name>Matthias Ulpmer, Ivan Bacher</name>
+        </author>
+        <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/generelles-ueber-publii.html"/>
+        <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/generelles-ueber-publii.html</id>
+
+        <updated>2023-02-19T20:45:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p class="dropcap"><span style="font-weight: 400;">Publii ist ein Desktop Content Management System, mit dem man sehr einfach und mit geringem Aufwand eine Webseite erstellen kann.</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="dropcap"><span style="font-weight: 400;">Publii ist ein Desktop Content Management System, mit dem man sehr einfach und mit geringem Aufwand eine Webseite erstellen kann.</span></p>
+
+<p><span style="font-weight: 400;">Zudem braucht Publii keine </span><span style="font-weight: 400;">Anforderungen wie z.B. PHP, MySQL, eine Datenbank oder Ähnliches. Dies ist ein weiterer sehr großer Vorteil von diesem CMS.</span></p>
+<p><span style="font-weight: 400;"><a href="https://getpublii.com/download/" title="Downloas" target="_blank" rel="noopener noreferrer">Link zum Download</a></span></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
