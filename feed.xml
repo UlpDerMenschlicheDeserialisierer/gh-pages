@@ -3,7 +3,7 @@
     <title>Dokumentation</title>
     <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages" />
-    <updated>2023-02-20T10:18:52+01:00</updated>
+    <updated>2023-02-20T11:12:56+01:00</updated>
     <author>
         <name>Matthias Ulpmer, Ivan Bacher</name>
     </author>
@@ -56,16 +56,16 @@
         <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/seite-auf-github-erstellen.html</id>
             <category term="Publii Seite veröffentlichen"/>
 
-        <updated>2023-02-19T22:31:46+01:00</updated>
+        <updated>2023-02-20T11:12:56+01:00</updated>
             <summary>
                 <![CDATA[
-                    1) Token erstellen Um eine Seite auf GitHub zu erstellen, muss man zunächst ein sog. “Zugangs-Token” erstellen. Damit kann Publii auf die Github-Seite zugreifen und Änderungen vornehmen, so dass es die Website erstellen und bearbeiten kann, sobald man in der Publii-App auf den Sync-Button klickt.
+                    1) Token erstellen Um eine Seite auf GitHub zu erstellen, muss man zunächst ein sog. “Zugangs-Token” erstellen. Damit kann Publii auf die Github-Seite zugreifen und Änderungen vornehmen, damit Publii die Website erstellen und bearbeiten kann, sobald man in der Publii-App auf den Sync-Button klickt. Anleitung:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h3><span style="font-weight: 400;">1) Token erstellen</span></h3>
-<p><span style="font-weight: 400;">Um eine Seite auf GitHub zu erstellen, muss man zunächst ein sog. “Zugangs-Token” erstellen. Damit kann Publii auf die Github-Seite zugreifen und Änderungen vornehmen, so dass es die Website erstellen und bearbeiten kann, sobald man in der Publii-App auf den Sync-Button klickt.</span></p>
+<p>Um eine Seite auf GitHub zu erstellen, muss man zunächst ein sog. “Zugangs-Token” erstellen. Damit kann Publii auf die Github-Seite zugreifen und Änderungen vornehmen, damit Publii die Website erstellen und bearbeiten kann, sobald man in der Publii-App auf den Sync-Button klickt.</p>
 <p><strong>Anleitung:</strong></p>
 <ol>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Zunächst meldet man sich bei GitHub an und klickt auf die Profil-Einstellungen.</span></li>
