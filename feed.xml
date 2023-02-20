@@ -3,7 +3,7 @@
     <title>Dokumentation</title>
     <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages" />
-    <updated>2023-02-19T22:41:03+01:00</updated>
+    <updated>2023-02-20T10:18:52+01:00</updated>
     <author>
         <name>Matthias Ulpmer, Ivan Bacher</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/das-repo-mit-publii-verknuepfen.html"/>
         <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/das-repo-mit-publii-verknuepfen.html</id>
+            <category term="Publii Seite veröffentlichen"/>
 
-        <updated>2023-02-19T22:41:03+01:00</updated>
+        <updated>2023-02-20T10:18:20+01:00</updated>
             <summary>
                 <![CDATA[
                     Folgende Informationen müssen angegeben werden: Sobald alle Optionen eingestellt sind,die Änderungen speichern und anschließend auf Verbindung testen drücken, um zu prüfen, ob Publii eine Verbindung zu Ihrer Github-Seite herstellen kann. Anschließend klickt man “Sync your website”, um die Webseite hochzuladen. WICHTIG! Die hochgeladene Publii-Website ist&hellip;
@@ -264,8 +265,9 @@
         </author>
         <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/generelles-ueber-publii.html"/>
         <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/generelles-ueber-publii.html</id>
+            <category term="Erstellung einer Webseite"/>
 
-        <updated>2023-02-19T20:45:52+01:00</updated>
+        <updated>2023-02-20T10:18:52+01:00</updated>
             <summary>
                 <![CDATA[
                     <p class="dropcap"><span style="font-weight: 400;">Publii ist ein Desktop Content Management System, mit dem man sehr einfach und mit geringem Aufwand eine Webseite erstellen kann.</span></p>
