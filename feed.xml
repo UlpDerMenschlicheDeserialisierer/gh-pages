@@ -3,7 +3,7 @@
     <title>Dokumentation</title>
     <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://ulpdermenschlichedeserialisierer.github.io/gh-pages" />
-    <updated>2023-02-20T11:12:56+01:00</updated>
+    <updated>2023-02-20T14:03:00+01:00</updated>
     <author>
         <name>Matthias Ulpmer, Ivan Bacher</name>
     </author>
@@ -129,16 +129,16 @@
         <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/publii-seite-veroeffentlichen.html</id>
             <category term="Publii Seite veröffentlichen"/>
 
-        <updated>2023-02-19T21:48:19+01:00</updated>
+        <updated>2023-02-20T14:03:00+01:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">Publii unterstützt viele verschiedene Arten, die Webseite zu veröffentlichen. Dazu wechselt man einfach auf den Reiter Server und wählt dann die gewünschte Methode aus.</span></p>
+                    <p>Publii unterstützt viele verschiedene Arten, eine Webseite zu veröffentlichen. Dazu wechselt man einfach zum Tab "Server" und wählt die gewünschte Methode aus.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><span style="font-weight: 400;">Publii unterstützt viele verschiedene Arten, die Webseite zu veröffentlichen. Dazu wechselt man einfach auf den Reiter Server und wählt dann die gewünschte Methode aus.</span></p>
+                <p>Publii unterstützt viele verschiedene Arten, eine Webseite zu veröffentlichen. Dazu wechselt man einfach zum Tab "Server" und wählt die gewünschte Methode aus.</p>
 
 <figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/Screenshot-2023-02-19-214735.png" alt="Server aussuchen" width="1172" height="608" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/8/responsive/Screenshot-2023-02-19-214735-2xl.png 1600w"><figcaption>Server aussuchen</figcaption></figure>
 <p><span style="font-weight: 400;">Wir haben uns dazu entschieden, diese Seite auf GitHub zu veröffentlichen.</span></p>
@@ -155,16 +155,16 @@
         <id>https://ulpdermenschlichedeserialisierer.github.io/gh-pages/fuellen-der-webseite-mit-daten.html</id>
             <category term="Gestaltung der Webseite"/>
 
-        <updated>2023-02-19T21:51:41+01:00</updated>
+        <updated>2023-02-20T14:02:44+01:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">Informationen auf der Webseite anzuzeigen ist bei Publii auch sehr einfach, dazu klickt man einfach auf “Add New post”. (Wir haben die erste Option als Editor verwendet).</span></p>
+                    <p>Das Hinzufügen von Inhalten auf der Webseite ist mit Publii sehr einfach. Dazu klickt man einfach auf “Add New post”. (Wir haben die erste Option als Editor verwendet).</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><span style="font-weight: 400;">Informationen auf der Webseite anzuzeigen ist bei Publii auch sehr einfach, dazu klickt man einfach auf “Add New post”. (Wir haben die erste Option als Editor verwendet).</span></p>
+                <p>Das Hinzufügen von Inhalten auf der Webseite ist mit Publii sehr einfach. Dazu klickt man einfach auf “Add New post”. (Wir haben die erste Option als Editor verwendet).</p>
 
 <figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/Screenshot-2023-02-19-213344.png" alt="Neuen Post erstellen" width="1187" height="457" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/7/responsive/Screenshot-2023-02-19-213344-2xl.png 1600w"><figcaption>Neuen Post erstellen</figcaption></figure>
 <p><span style="font-weight: 400;">Im Editor kann man verschiedene Einstellungen vornehmen wie zum Beispiel:</span></p>
@@ -215,18 +215,19 @@
         <media:content url="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/Download.png" medium="image" />
             <category term="Gestaltung der Webseite"/>
 
-        <updated>2023-02-19T21:20:49+01:00</updated>
+        <updated>2023-02-20T14:01:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/Download.png" alt="" />
-                    Publii bietet bereits Themes an, die man als Basis für seine Seite auswählen kann. Dazu klickt man auf Themes → Menü (oben rechts) → Themes. Dort kann man ein Theme zuerst unter folgendem Link downloaden und den ZIP-Ordner per “drag- and drop” hineinziehen.
+                    Publii bietet bereits Themes an, die man als Basis für seine Seite auswählen kann. Um ein Theme zu installieren, klickt man auf Themes → Menü (oben rechts) → Themes. Dort kann man ein Theme zuerst unter folgendem Link herunterladen und den ZIP-Ordner per “Drag- and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/Download.png" class="type:primaryImage" alt="" /></p>
-                <p><span style="font-weight: 400;">Publii bietet bereits Themes an, die man als Basis für seine Seite auswählen kann. </span><span style="font-weight: 400;">Dazu klickt man auf Themes → Menü (oben rechts) → Themes.</span></p>
-<p><span style="font-weight: 400;"> Dort kann man ein Theme zuerst unter folgendem <a href="https://marketplace.getpublii.com/themes/" target="_blank" rel="noopener noreferrer">Link </a>downloaden </span><span style="font-weight: 400;">und den ZIP-Ordner per “drag- and drop” hineinziehen.</span></p>
+                <p>Publii bietet bereits Themes an, die man als Basis für seine Seite auswählen kann.</p>
+<p>Um ein Theme zu installieren, klickt man auf Themes → Menü (oben rechts) → Themes.</p>
+<p>Dort kann man ein Theme zuerst unter folgendem <span style="font-weight: 400;"><a href="https://marketplace.getpublii.com/themes/" target="_blank" rel="noopener noreferrer">Link </a></span> herunterladen und den ZIP-Ordner per “Drag- and Drop” hineinziehen.</p>
 <figure class="post__image"><img loading="lazy"  src="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/Screenshot-2023-02-19-211955.png" alt="Auswählen eines Themes" width="1741" height="627" sizes="100vw" srcset="https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-xs.png 300w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-sm.png 480w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-md.png 768w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-lg.png 1024w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-xl.png 1360w ,https://ulpdermenschlichedeserialisierer.github.io/gh-pages/media/posts/5/responsive/Screenshot-2023-02-19-211955-2xl.png 1600w"><figcaption>Auswählen eines Themes</figcaption></figure>
 <p> </p>
             ]]>
